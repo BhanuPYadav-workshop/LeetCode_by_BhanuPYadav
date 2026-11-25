@@ -8,6 +8,7 @@ LeetCode solutions and practice problems
 | ------- |
 | [0001-two-sum](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ LeetCode solutions and practice problems
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

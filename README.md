@@ -24,6 +24,7 @@ LeetCode solutions and practice problems
 | ------- |
 | [0242-valid-anagram](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,9 @@ LeetCode solutions and practice problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/BhanuPYadav-workshop/LeetCode_by_BhanuPYadav/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
